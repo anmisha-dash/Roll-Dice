@@ -1,90 +1,60 @@
-# 🎲 Express Dice Roller
+# 🚀 Express.js & EJS Practice
 
-A simple Node.js project built with **Express.js** and **EJS** that simulates rolling a six-sided dice. Every time you visit the dice route, a random number between **1 and 6** is generated and displayed.
+This repository contains my practice projects and experiments while learning **Express.js** and **EJS**. As I continue learning, I'll keep adding new concepts, routes, and mini examples to this repository.
 
-## 🚀 Features
+## 📚 What I'm Learning
 
-- Built with Express.js
-- Uses EJS as the templating engine
-- Generates a random dice value on every refresh
-- Simple routing example for beginners
+* Setting up an Express.js server
+* Routing in Express.js
+* Dynamic routes using URL parameters
+* Rendering pages with EJS
+* Passing data from Express to EJS templates
+* Using template variables
+* Creating simple dynamic web pages
+* Working with request parameters
+* Building beginner-friendly Express applications
 
-## 🛠️ Technologies Used
+## 🛠️ Tech Stack
 
-- Node.js
-- Express.js
-- EJS
-- Path Module
+* Node.js
+* Express.js
+* EJS
+* JavaScript
 
-## 📂 Project Structure
+## ▶️ Getting Started
 
-```
-project-folder/
-│── views/
-│   ├── home.ejs
-│   └── rolldice.ejs
-│── node_modules/
-│── index.js
-│── package.json
-└── README.md
-```
-
-## ⚙️ Installation
-
-1. Clone the repository
+Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/express-dice-roller.git
+git clone https://github.com/anmisha-dash/Roll-Dice.git
 ```
 
-2. Navigate to the project folder
-
-```bash
-cd express-dice-roller
-```
-
-3. Install dependencies
+Install dependencies:
 
 ```bash
 npm install
 ```
 
-4. Start the server
+Start the server:
 
 ```bash
 node index.js
 ```
 
-## 🌐 Usage
-
 Open your browser and visit:
 
 ```
-http://localhost:8080/
+http://localhost:8080
 ```
 
-To roll the dice, go to:
+## 🌱 About This Repository
 
-```
-http://localhost:8080/rolldice
-```
+This is a learning repository where I regularly add new Express.js and EJS concepts. It serves as my personal collection of examples and practice code while exploring backend development with Node.js.
 
-Refresh the page to generate a new random dice value.
+## 👤 Owner
 
-## 📖 Learning Objectives
-
-This project demonstrates:
-
-- Setting up an Express server
-- Using the EJS view engine
-- Rendering dynamic data with `res.render()`
-- Passing variables from Express to EJS
-- Basic routing in Express.js
-
-##  Owner
-Anmisha Dash
+**Anmisha Dash**
 
 ---
 
-⭐ If you found this project helpful, consider giving it a **Star** on GitHub!
-
+⭐ If you like this repository or find it helpful, consider giving it a **Star**!
